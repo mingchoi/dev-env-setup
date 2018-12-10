@@ -17,6 +17,7 @@ sh start.sh
 * golang-lib - Useful go library like gin, viper and more...
 * mariadb-in-docker - SQL Database (install in docker)
 * gnome - Vanilla Gnome (for who don't like Ubuntu Dock)
+* elementary-desktop - Column view finder
 
 ### Manual Install
 ```

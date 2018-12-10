@@ -18,6 +18,7 @@ sh start.sh
 * mariadb-in-docker - SQL Database (install in docker)
 * gnome - Vanilla Gnome (for who don't like Ubuntu Dock)
 * elementary-desktop - Column view finder
+* adapta-theme - A GTK theme
 
 ### Manual Install
 ```

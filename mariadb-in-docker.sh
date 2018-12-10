@@ -1,0 +1,2 @@
+sudo docker run --name mariadb -v /var/lib/mysql-files:/var/lib/mysql-files -e MYSQL_ROOT_PASSWORD=my-secret-pw -p 3306:3306 -d mariadb:latest
+sudo docker run --name adminer -d --link mariadb:db -p 8000:8080 adminer

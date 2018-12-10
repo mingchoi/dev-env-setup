@@ -1,0 +1,10 @@
+go get golang.org/x/text/encoding/unicode
+go get golang.org/x/text/transform
+go get golang.org/x/crypto/bcrypt
+go get github.com/gin-gonic/gin
+go get github.com/gin-contrib/sessions
+go get github.com/gin-contrib/static
+go get github.com/shopspring/decimal
+go get github.com/spf13/viper
+go get github.com/go-sql-driver/mysql 
+go get github.com/fluent/fluent-logger-golang/fluent

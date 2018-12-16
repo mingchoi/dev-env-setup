@@ -1,4 +1,5 @@
 # Software List
+
 This list below contain useful tools for development
 
 - Visual Studio Code
@@ -6,5 +7,7 @@ This list below contain useful tools for development
     - vim
     - go
     - markdown all in one
+    - prettier
+    - adapted
 - Chromium
 - GNOME Tweaks
